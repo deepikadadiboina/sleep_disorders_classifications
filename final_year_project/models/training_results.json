@@ -1,0 +1,26 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.885,
+    "precision": 0.8141666666666666,
+    "recall": 0.885,
+    "f1_score": 0.8391815384615384
+  },
+  "Quadratic Discriminant Analysis (QDA)": {
+    "accuracy": 0.875,
+    "precision": 0.8131632653061225,
+    "recall": 0.875,
+    "f1_score": 0.8341451845741389
+  },
+  "Random Forest": {
+    "accuracy": 0.88,
+    "precision": 0.8045008460236887,
+    "recall": 0.88,
+    "f1_score": 0.8360656990068754
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.865,
+    "precision": 0.834701367781155,
+    "recall": 0.865,
+    "f1_score": 0.8459158255227108
+  }
+}
